@@ -1,0 +1,14 @@
+{
+  "name": "dark-light-mode-toggle",
+  "version": "1.0.0",
+  "description": "Creative dark/light mode toggle with day/night scene",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
