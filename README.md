@@ -15,7 +15,6 @@ The application features two distinct visual experiences:
 
 - **Dark Mode**: A mystical night sky with twinkling stars, a detailed moon with craters, and deep cosmic gradients
    ![Dark Mode](/assets/DarkMode.png)
-> Screenshots showcasing both themes can be found in the `/screenshots` folder.
 
 ## ✨ Features
 
