@@ -11,10 +11,10 @@ Theme switching is more than just a visual preference—it's about accessibility
 The application features two distinct visual experiences:
 
 - **Light Mode**: A bright, cheerful day scene with a glowing sun, warm gradients, and uplifting colors
-   Example: ![Light Mode](/assets/LightMode.png)
+   ![Light Mode](/assets/LightMode.png)
 
 - **Dark Mode**: A mystical night sky with twinkling stars, a detailed moon with craters, and deep cosmic gradients
-   Example: ![Dark Mode](/assets/DarkMode.png)
+   ![Dark Mode](/assets/DarkMode.png)
 > Screenshots showcasing both themes can be found in the `/screenshots` folder.
 
 ## ✨ Features
